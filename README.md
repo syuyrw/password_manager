@@ -6,8 +6,6 @@ I wrote a simple command line password manager. When you run the program, a pass
 
 I wrote this software to learn, but also because I am a victim of often using the same password over and over, and am trying to get better at using different passwords. It is easier to use different passwords when a program remembers them for you.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
 [Software Demo Video](https://youtu.be/KXMF8vbdy7o)
 
 # Development Environment
