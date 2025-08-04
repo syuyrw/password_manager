@@ -26,3 +26,7 @@ The program was written in Rust. The libraries I used were the Rust Standard Lib
 -   Clean up the code and use functions to keep things tidy
 -   Make it so passwords can be edited and deleted
 -   Add some sort of a menu so they can select what they want to do rather than having to select yes or no
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
